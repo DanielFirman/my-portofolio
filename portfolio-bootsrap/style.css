@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 6rem;
+
+  background-color: #8cfafa;
+}
+
+/* jika dia id pakai tanda # bukan . */
+#contact {
+  background-color: #8cfafa;
+}
+
+section {
+  padding-top: 4rem;
+}
